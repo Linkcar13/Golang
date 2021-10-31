@@ -1,3 +1,4 @@
+//first script
 package main
 
 import (
